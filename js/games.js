@@ -51,26 +51,29 @@ window.games = [
     parentTip: "行き止まりも大切な発見です。「次はどっちへ行ってみよう？」と声をかけてみてください。"
   },
   {
-    id: "coming-color",
-    title: "いろあそび（準備中）",
-    subtitle: "Color Play",
-    category: "coming-soon",
-    categoryLabel: "これから登場",
-    ageLabel: "3〜6さい（予定）",
+    id: "iroawase",
+    title: "いろあわせ",
+    subtitle: "Iroawase",
+    category: "creative",
+    categoryLabel: "かく・つくる",
+    ageLabel: "3〜6さい",
     ageMin: 3,
     ageMax: 6,
     icon: "color",
-    status: "coming-soon",
-    description: "色を選んで、すきな絵をカラフルに仕上げるゲームを準備中です。",
+    status: "available",
+    url: "https://hosoden.github.io/Iroawase/",
+    description: "好きな色を選んで、キャンバスやお手本の絵を自由にぬってみよう。",
     howTo: [
-      "このゲームは現在準備中です。公開したら、色を選ぶところから遊べる予定です。",
-      "好きな色を組み合わせて、自分だけの絵を作る遊びを計画しています。"
+      "ゲームを開き、お手本を選ぶか、白紙のキャンバスで絵を描きます。",
+      "好きな色を選び、指やマウスでぬりたいところを選びます。",
+      "色を組み合わせて、自分だけのカラフルな絵を仕上げましょう。"
     ],
     skills: [
       "色の違いや組み合わせに気づき、色彩感覚を楽しみながら育みます。",
-      "好きな色を選ぶ経験を通して、自分のイメージを表現する力につながります。"
+      "好きな色や模様を選ぶ体験が、自分のイメージを表現する力につながります。",
+      "指やマウスを動かして自由に描くことで、手と目の協応や操作の練習になります。"
     ],
-    parentTip: "対象年齢や遊び方は、ゲーム公開時にあらためてご案内します。"
+    parentTip: "お子さまの好きな色や、ぬった部分について一緒に話してみてください。"
   },
   {
     id: "coming-shape",
